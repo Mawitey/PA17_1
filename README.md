@@ -14,3 +14,4 @@ SVC                   5.48         0.94            0.945
 Logistic Regression had the best performance overall with high accuracy and fast training time. Decision Trees were the most interpretable but slightly overfit. KNN required tuning but performed well. Feature scaling was critical for SVM and Logistic Regression.
 
 ### Next steps
+Next I will try to deploy the best performing model, so I can have an end to end working model.
