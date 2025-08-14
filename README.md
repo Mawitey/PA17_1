@@ -1,5 +1,5 @@
 # Comparing Classifiers
-Here is link to the notebook - https://github.com/Mawitey/PA17_1/blob/main/practical%20assignment%203.ipynb
+Here is link to the notebook - https://github.com/Mawitey/PA17_1/blob/main/Practical%20Application%203.ipynb
 
 ###  Problem statement
 This project compares multiple machine learning models to predict whether a customer will subscribe to a term deposit (binary classification: yes or no) based on personal, economic, and campaign-related data. The dataset is sourced from the UCI Machine Learning Repository: Bank Marketing Data Set.
